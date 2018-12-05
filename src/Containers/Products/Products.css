@@ -1,0 +1,11 @@
+.noProductsCls {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  color: red;
+}
+.spinnerStyle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,18 @@
+.viewBagCls {
+  width: 95%;
+  position: sticky;
+  bottom: 65px;
+  background-color: #377c1c;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+}
+.cartText {
+  padding: 8px 16px;
+}
+
+.viewBagCls > button {
+  color: white;
+}

@@ -1,0 +1,9 @@
+.searchCls {
+  z-index: 100;
+  background: white;
+  padding: 10px;
+  width: 90%;
+  position: fixed;
+  top: 85px;
+  border: 1px solid;
+}

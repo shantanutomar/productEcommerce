@@ -1,0 +1,14 @@
+.headerCls {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 0.4em;
+}
+.headerCls > img {
+  height: 45px;
+  width: 130px;
+}
+
+.iconBtn {
+  margin: 5px;
+}

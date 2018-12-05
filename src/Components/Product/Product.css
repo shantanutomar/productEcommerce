@@ -1,0 +1,38 @@
+.productRoot {
+  padding: 1em;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+.imageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imageContainer > img {
+  height: 7em;
+}
+.productText {
+  margin: 5px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+.boldStyle {
+  font-weight: 700;
+}
+.addButtonStyle {
+  margin: 5px 0 !important;
+}
+
+.defaultOfferContainer {
+  position: absolute;
+  left: 0px;
+  background: #f4a640;
+  top: 8px;
+  padding: 5px;
+  border-radius: 0 5px 5px 0;
+}
