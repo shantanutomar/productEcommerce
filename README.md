@@ -1,3 +1,23 @@
+## Netlify Link
+
+The project is deployed on Netlify at below link : https://agrostarchallenge.netlify.com/
+
+## Git Repo
+
+The project is available on below git repo: https://github.com/shantanutomar/agrostar_challenge.git
+
+## Instructions
+
+To run the project on localhost, please follow below steps on CLI :
+
+1. Clone the gitRepo to localRepo : git clone https://github.com/shantanutomar/agrostar_challenge.git
+
+2. Go to cloned directory and install all the 3rd party dependencies : npm install
+
+3. Run the localhost server : npm start
+
+4. Go to below URL : http://localhost:3000/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
