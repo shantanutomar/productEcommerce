@@ -1,24 +1,27 @@
-## Netlify Link
+## About Project
 
-The project is deployed on Netlify at below link : https://agrostarchallenge.netlify.com/
+This is a dummy Ecommerce Website layout created using React, Redux Store and material-ui.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Hosted On
+
+The project is deployed on Netlify @ -> https://productecommerce.netlify.com/
 
 ## Git Repo
 
-The project is available on below git repo: https://github.com/shantanutomar/agrostar_challenge.git
+The project is available on git repo -> https://github.com/shantanutomar/productEcommerce.git
 
-## Instructions
+## How to run on localhost
 
 To run the project on localhost, please follow below steps on CLI :
 
-1. Clone the gitRepo to localRepo : git clone https://github.com/shantanutomar/agrostar_challenge.git
+1. Clone the gitRepo to localRepo : git clone https://github.com/shantanutomar/productEcommerce.git
 
 2. Go to cloned directory and install all the 3rd party dependencies : npm install
 
 3. Run the localhost server : npm start
 
 4. Go to below URL : http://localhost:3000/
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
